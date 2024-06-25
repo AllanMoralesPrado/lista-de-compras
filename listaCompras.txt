@@ -1,3 +1,6 @@
 compra_1
+compra_1.5
 compra_2
+compra_2.5
 compra_3
+
