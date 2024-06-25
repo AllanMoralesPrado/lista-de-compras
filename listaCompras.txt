@@ -3,7 +3,6 @@ compra_1.5
 compra_2
 compra_2.5
 compra_3
-
 compra_4
 compra_5
 compra_6
